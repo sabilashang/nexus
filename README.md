@@ -26,10 +26,9 @@ Express API that simulates smart cold-storage telemetry and control. A Lovable (
 
 ## Setup
 
-From the repository root:
+Clone the repository, then from the project root:
 
 ```powershell
-cd nexus
 npm install
 npm start
 ```
