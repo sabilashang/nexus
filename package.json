@@ -1,0 +1,17 @@
+{
+  "name": "nexus-cold-storage-sim",
+  "version": "1.0.0",
+  "description": "IoT simulation API for smart cold storage telemetry",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
